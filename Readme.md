@@ -61,32 +61,32 @@ The Volumetric Visualization of multidimensional datacubes requires a raster dat
 ## Folder Tree
 
 ├── auxdata.jar\
-├── Example bundles
-│   ├── final_bundle2.xidv
-│   └── final_bundle.xidv
-├── external.jar
-├── getfiles
-│   ├── geticing.py
-│   ├── gettemp.py
-│   ├── getwind.py
-│   ├── icing.nc
-│   ├── README_for_files.txt
-│   ├── temp_all.nc
-│   ├── temp.nc
-│   ├── wind_69680.nc
-│   ├── wind_72430.nc
-│   ├── wind_75260.nc
-│   ├── wind_78190.nc
-│   ├── wind_81200.nc
-│   └── wind_84310.nc
-├── idv.gif
-├── idv.jar
-├── jython.jar
-├── local-visad.jar
-├── ncIdv.jar
-├── README.txt
-├── runIDV
-├── runIDV.ico
-├── uninstall
-├── visad.jar
-└── world-administrative-boundaries.shp
+├── Example bundles\
+│   ├── final_bundle2.xidv\
+│   └── final_bundle.xidv\
+├── external.jar\
+├── getfiles\
+│   ├── geticing.py\
+│   ├── gettemp.py\
+│   ├── getwind.py\
+│   ├── icing.nc\
+│   ├── README_for_files.txt\
+│   ├── temp_all.nc\
+│   ├── temp.nc\
+│   ├── wind_69680.nc\
+│   ├── wind_72430.nc\
+│   ├── wind_75260.nc\
+│   ├── wind_78190.nc\
+│   ├── wind_81200.nc\
+│   └── wind_84310.nc\
+├── idv.gif\
+├── idv.jar\
+├── jython.jar\
+├── local-visad.jar\
+├── ncIdv.jar\
+├── README.txt\
+├── runIDV\
+├── runIDV.ico\
+├── uninstall\
+├── visad.jar\
+└── world-administrative-boundaries.shp\
