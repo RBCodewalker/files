@@ -60,7 +60,7 @@ The Volumetric Visualization of multidimensional datacubes requires a raster dat
 
 ## Folder Tree
 
-├── auxdata.jar
+├── auxdata.jar\
 ├── Example bundles
 │   ├── final_bundle2.xidv
 │   └── final_bundle.xidv
